@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielGSRosa
 - 👀 I’m interested in becoming a frontend developer.
-- 🌱 I’m currently learning JavaScript, React and CSS.
+- 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on JavaScript, Python, AngularJs and CSS.
 - 📫 How to reach me: intagram: @gabriel.schoenfelder | Linkedin: https://www.linkedin.com/in/gabriel-s-rosa/
