@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Rosa
 - 👀 I’m interested in becoming a developer.
-- 🌱 I’m currently learning NodeJs and ReactJs.
+- 🌱 I’m currently learning NodeJs and ReactNative.
 - 💞️ I’m looking to collaborate on NodeJs, Python, ReactJs.
-- 📫 How to reach me: intagram: @gabriel.schoenfelder | Linkedin: https://www.linkedin.com/in/gabriel-s-rosa/
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gabriel-s-rosa/
